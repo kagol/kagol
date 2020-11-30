@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi 我是 Kagol
 
-<!--
-**kagol/kagol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 关于我
 
-Here are some ideas to get you started:
+- `DevUI`团队核心成员
+- `DevUI团队`掘金专栏运营
+- 企业级Angular组件库`DevUI`贡献者
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 关于DevUI
+
+![DevUI LOGO](https://cdn.nlark.com/yuque/0/2020/png/370043/1606753310016-db2f1f33-4026-4bea-ae1e-23c6bb156bbb.png)
+
+- [DevUI组件库](github.com/devcloudfe/ng-devui)
+- [DevUI官网](https://devui.design/)
+- [掘金专栏](https://juejin.cn/user/712139267650141)
+- [思否专栏](https://segmentfault.com/u/devui)
+- [知乎专栏](https://www.zhihu.com/column/devui)
+
+### 联系
+
+- DevUI官方小助手：`devui-official`（欢迎添加小助手进群，一起交流前端技术🤝）
+
+欢迎使用[DevUI组件库](github.com/devcloudfe/ng-devui)，欢迎Star🌟
