@@ -18,6 +18,6 @@
 
 ### 联系
 
-- DevUI官方小助手：`devui-official`（欢迎添加小助手进群，一起交流前端技术🤝）
+- DevUI官方小助手微信号：`devui-official`（欢迎添加小助手进群，一起交流前端技术🤝）
 
 欢迎使用[DevUI组件库](https://github.com/devcloudfe/ng-devui)，欢迎Star🌟
