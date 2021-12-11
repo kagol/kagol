@@ -7,7 +7,7 @@
 - `DevUI团队`掘金专栏运营
 - 企业级Angular组件库`DevUI`贡献者
 
-[![Kagol's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagol)](https://github.com/anuraghazra/github-readme-stats)
+[![Kagol's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagol&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 关于DevUI
 
