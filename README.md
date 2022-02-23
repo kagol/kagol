@@ -15,9 +15,9 @@ DevUI，致力于打造业界领先的企业级UI组件库。
 
 [![DevUI LOGO](https://cdn.nlark.com/yuque/0/2020/png/370043/1606753310016-db2f1f33-4026-4bea-ae1e-23c6bb156bbb.png)](https://devui.design/)
 
-- [DevUI组件库](https://github.com/devcloudfe/ng-devui)
 - [DevUI官网](https://devui.design/)
-- [Vue DevUI](https://gitee.com/devui/vue-devui)
+- [DevUI组件库](https://github.com/devcloudfe/ng-devui)
+- [Vue DevUI](https://github.com/devcloudfe/vue-devui)
 - [掘金专栏](https://juejin.cn/user/712139267650141)
 - [思否专栏](https://segmentfault.com/u/devui)
 - [知乎专栏](https://www.zhihu.com/column/devui)
