@@ -15,7 +15,7 @@
 - [知乎专栏](https://www.zhihu.com/people/kagol)
 - [Vue DevUI 组件库](https://github.com/DevCloudFE/vue-devui)
 
-### 联系我们
+### 联系我
 
 - Tiny 官方小助手微信号：`opentiny-official`，欢迎添加小助手进群，一起交流前端技术🤝
 - 邮箱📮：kagol@sina.com
