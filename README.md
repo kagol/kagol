@@ -2,9 +2,10 @@
 
 ### 关于我
 
+- `OpenTiny`开源社区运营
+- `TinyVue`核心贡献者
 - `Vue DevUI`组件库创建者
 - `EditorX`富文本编辑器创建者
-- `OpenTiny`开源社区运营
 
 [![Kagol's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagol&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -13,7 +14,7 @@
 - [掘金专栏](https://juejin.cn/user/1504599026445150)
 - [开源中国](https://my.oschina.net/u/4863191)
 - [博客园](https://www.cnblogs.com/kagol/)
-- [Vue DevUI 组件库](https://github.com/DevCloudFE/vue-devui)
+- [TinyVue 跨端、跨框架组件库](https://github.com/opentiny/tiny-vue)
 
 ### 联系我
 
