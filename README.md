@@ -20,4 +20,4 @@
 
 - 公众号📱：`Kagol`
 - 邮箱📮：kagol@sina.com
-- Tiny 官方小助手微信号：`opentiny-official`，欢迎添加小助手进群，一起交流前端技术🤝
+- OpenTiny 官方小助手微信号：`opentiny-official`，欢迎添加小助手进群，一起交流前端技术🤝
