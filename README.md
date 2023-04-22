@@ -18,6 +18,6 @@
 
 ### 联系我
 
-- 公众号📱：`Kagol`
+- 公众号📱：`前端开源星球`
 - 邮箱📮：kagol@sina.com
 - OpenTiny 官方小助手微信号：`opentiny-official`，欢迎添加小助手进群，一起交流前端技术🤝
