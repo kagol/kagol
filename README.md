@@ -11,9 +11,9 @@
 
 我的博客/作品：
 
+- [我的博客](https://kagol.github.io/blogs)
 - [掘金专栏](https://juejin.cn/user/1504599026445150)
 - [开源中国](https://my.oschina.net/u/4863191)
-- [博客园](https://www.cnblogs.com/kagol/)
 - [TinyVue：一套代码同时支持Vue2和Vue3](https://github.com/opentiny/tiny-vue)
 
 ### 联系我
