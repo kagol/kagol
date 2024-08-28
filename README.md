@@ -5,7 +5,7 @@
 - `OpenTiny`开源社区运营
 - `TinyVue`核心贡献者
 - `Vue DevUI`组件库创建者
-- `EditorX`富文本编辑器创建者
+- `Fluent Editor`富文本编辑器创建者
 
 [![Kagol's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagol&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
