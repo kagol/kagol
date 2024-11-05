@@ -1,23 +1,14 @@
-## Hi 我是 Kagol
+## 你好，我是 Kagol
 
-### 关于我
+从事前端10年，专注于前端组件库建设和开源社区运营，`前端开源星球`公众号运营者，热爱开源和写作，活跃于[掘金](https://juejin.cn/user/1504599026445150)、[知乎](https://www.zhihu.com/people/kagol)、[B站](https://space.bilibili.com/397616336)等社区，发表100多篇技术文章，有4个Star超千的开源项目。
 
-- `OpenTiny`开源社区运营
-- `TinyVue`核心贡献者
-- `Vue DevUI`组件库创建者
-- `Fluent Editor`富文本编辑器创建者
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kagol&show_icons=true" />
 
-[![Kagol's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagol&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- [OpenTiny](https://github.com/opentiny) 开源社区运营者
+- [TinyVue](https://github.com/opentiny/tiny-vue) 跨框架组件库核心贡献者
+- [Fluent Editor](https://github.com/opentiny/fluent-editor) 富文本编辑器创建者
+- [Vue DevUI](https://github.com/DevCloudFE/vue-devui) 组件库创建者
 
-我的博客/作品：
-
-- [我的博客](https://kagol.github.io/blogs)
-- [掘金专栏](https://juejin.cn/user/1504599026445150)
-- [开源中国](https://my.oschina.net/u/4863191)
-- [TinyVue：一套代码同时支持Vue2和Vue3](https://github.com/opentiny/tiny-vue)
-
-### 联系我
-
-- 公众号📱：`前端开源星球`
-- 邮箱📮：kagol@sina.com
-- OpenTiny 官方小助手微信号：`opentiny-official`，欢迎添加小助手进群，一起交流前端技术🤝
+| 公众号： | 前端 | 开源 | 星球 |
+| -- | -- | -- | -- |
+| `前端开源星球` | [个人博客](https://kagol.github.io/blogs) | [掘金专栏](https://juejin.cn/user/1504599026445150) | [B站](https://space.bilibili.com/397616336) |
